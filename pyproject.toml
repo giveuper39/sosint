@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "sosint"
+version = "0.1.0"
+description = "OSINT app for the beginners and pros!"
+authors = ["Your Name <you@example.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
